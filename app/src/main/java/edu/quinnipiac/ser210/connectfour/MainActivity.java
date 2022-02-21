@@ -1,5 +1,11 @@
 package edu.quinnipiac.ser210.connectfour;
 
+/**
+ * Main Activity class 
+ * @author hhanif
+ * @date 2/20/2022
+ */
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Context;

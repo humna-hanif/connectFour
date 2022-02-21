@@ -11,7 +11,7 @@ import edu.quinnipiac.ser210.connectfour.IGame;
  * TicTacToe class implements the interface
  * @author relkharboutly
  * @author hhanif
- * @date 2/4/2022
+ * @date 2/20/2022
  */
 public class FourInARow implements IGame {
 

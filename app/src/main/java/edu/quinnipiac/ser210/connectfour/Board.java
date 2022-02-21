@@ -1,5 +1,11 @@
 package edu.quinnipiac.ser210.connectfour;
 
+/**
+ * Board class implements
+ * @author hhanif
+ * @date 2/20/2022
+ */
+
 import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.graphics.Color;
